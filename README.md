@@ -10,7 +10,7 @@ Analysis of 100k+ medical appointments to identify revenue loss from no-shows.
 
 ### 📂 Project Files
 *   **[📄 View Dashboard & Analysis(PDF)](noshow_analysis_rec.xlsx)** - *Excel file with analysis and interactive dashboard*
-*   **[📄 View Presentation (PDF)](report.pdf)** - *Short presentation(pdf)*
+*   **[📄 View Presentation (PDF)](Report.pdf)** - *Short presentation(pdf)*
 *   **[📄 View Raw Data (csv)](Data/noshow_raw_data.csv)** - *Source file with the data.*
 
 ### 🖼️ Project Visuals
@@ -24,7 +24,7 @@ Analysis of 100k+ medical appointments to identify revenue loss from no-shows.
 **BEFORE**
 ![BEFORE](/images/raw_data.png)
 **AFTER**
-![AFTER](images.clean_data.png)
+![AFTER](images/clean_data.png)
 
 ---
 *Created by Oleksii Topal*
